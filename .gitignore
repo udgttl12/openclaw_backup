@@ -1,0 +1,26 @@
+# === OpenClaw safe-backup profile ===
+# Secrets / auth
+agents/main/agent/auth*.json
+credentials/
+identity/
+openclaw.json
+openclaw.json.bak*
+exec-approvals.json
+node.json
+devices/
+
+# Conversation/session/private data
+agents/main/sessions/
+memory/
+logs/
+media/
+telegram/
+
+# Runtime/state noise
+restart-sentinel.json
+update-check.json
+cron/
+*.lock
+
+# Nested repo
+workspace/
