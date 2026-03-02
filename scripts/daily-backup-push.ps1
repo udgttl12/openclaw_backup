@@ -22,7 +22,7 @@ try {
   }
 
   git -C $repo add -A
-  $msg = "backup: auto daily snapshot $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+  $msg = "백업: 일일 자동 스냅샷 $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 
   try {
     git -C $repo commit -m $msg | Out-Null

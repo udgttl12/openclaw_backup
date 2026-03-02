@@ -1,0 +1,7 @@
+2026/03/01-23:00:08.830 3c90 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/01-23:00:08.830 3c90 Recovering log #104
+2026/03/01-23:00:08.830 3c90 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/000104.log 
+2026/03/01-23:00:08.876 4f10 Level-0 table #110: started
+2026/03/01-23:00:08.880 4f10 Level-0 table #110: 603 bytes OK
+2026/03/01-23:00:08.882 4f10 Delete type=0 #104
+2026/03/01-23:00:08.882 4f10 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
