@@ -1,34 +1,14 @@
-2026/03/01-22:00:13.153 41f8 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/01-22:00:13.153 41f8 Recovering log #97
-2026/03/01-22:00:13.154 41f8 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/000097.log 
-2026/03/01-22:00:13.154 41f8 Delete type=2 #95
-2026/03/01-22:00:13.239 3960 Level-0 table #102: started
-2026/03/01-22:00:13.241 3960 Level-0 table #102: 1934 bytes OK
-2026/03/01-22:00:13.243 3960 Delete type=0 #97
-2026/03/01-22:00:13.244 4af8 Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at '\x00"\x00\x00\x05' @ 1423 : 1
-2026/03/01-22:00:13.259 4af8 Compacting 1@0 + 1@1 files
-2026/03/01-22:00:13.273 4af8 Generated table #103@0: 273 keys, 4038 bytes
-2026/03/01-22:00:13.274 4af8 Compacted 1@0 + 1@1 files => 4038 bytes
-2026/03/01-22:00:13.275 4af8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/01-22:00:13.275 4af8 Delete type=2 #102
-2026/03/01-22:00:13.275 4af8 Manual compaction at level-0 from '\x00"\x00\x00\x05' @ 1423 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/01-22:00:28.078 41f8 Level-0 table #105: started
-2026/03/01-22:00:28.080 41f8 Level-0 table #105: 1512 bytes OK
-2026/03/01-22:00:28.081 41f8 Delete type=2 #99
-2026/03/01-22:00:28.081 41f8 Delete type=0 #101
-2026/03/01-22:00:28.082 41f8 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x004\x000\x007\x006\x009\x008\x004\x006\x001\x005\x00:\x00w\x00e\x00b\x00:\x000\x00c\x006\x008\x000\x00b\x00e\x002\x000\x000\x008\x009\x007\x008\x00d\x005\x007\x00b\x00c\x009\x000\x002' @ 1444 : 1
-2026/03/01-22:00:28.082 41f8 Compacting 1@0 + 1@1 files
-2026/03/01-22:00:28.085 41f8 Generated table #106@0: 275 keys, 3897 bytes
-2026/03/01-22:00:28.085 41f8 Compacted 1@0 + 1@1 files => 3897 bytes
-2026/03/01-22:00:28.086 41f8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/01-22:00:28.087 41f8 Delete type=2 #103
-2026/03/01-22:00:28.087 41f8 Delete type=2 #105
-2026/03/01-22:00:28.087 41f8 Manual compaction at level-0 from '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x004\x000\x007\x006\x009\x008\x004\x006\x001\x005\x00:\x00w\x00e\x00b\x00:\x000\x00c\x006\x008\x000\x00b\x00e\x002\x000\x000\x008\x009\x007\x008\x00d\x005\x007\x00b\x00c\x009\x000\x002' @ 1444 : 1 .. (end); will stop at (end)
-2026/03/01-22:00:28.088 41f8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x004\x000\x007\x006\x009\x008\x004\x006\x001\x005\x00:\x00w\x00e\x00b\x00:\x000\x00c\x006\x008\x000\x00b\x00e\x002\x000\x000\x008\x009\x007\x008\x00d\x005\x007\x00b\x00c\x009\x000\x002' @ 1456 : 1
-2026/03/01-22:00:28.088 41f8 Compacting 1@1 + 1@2 files
-2026/03/01-22:00:28.090 41f8 Generated table #107@1: 21 keys, 1368 bytes
-2026/03/01-22:00:28.090 41f8 Compacted 1@1 + 1@2 files => 1368 bytes
-2026/03/01-22:00:28.091 41f8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/03/01-22:00:28.091 41f8 Delete type=2 #5
-2026/03/01-22:00:28.092 41f8 Delete type=2 #106
-2026/03/01-22:00:28.092 41f8 Manual compaction at level-1 from '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x004\x000\x007\x006\x009\x008\x004\x006\x001\x005\x00:\x00w\x00e\x00b\x00:\x000\x00c\x006\x008\x000\x00b\x00e\x002\x000\x000\x008\x009\x007\x008\x00d\x005\x007\x00b\x00c\x009\x000\x002' @ 1456 : 1 .. (end); will stop at (end)
+2026/03/02-22:00:14.864 2bdc Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/02-22:00:14.865 2bdc Recovering log #160
+2026/03/02-22:00:14.866 2bdc Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/000160.log 
+2026/03/02-22:00:14.867 2bdc Delete type=2 #158
+2026/03/02-22:00:14.929 1fa8 Level-0 table #165: started
+2026/03/02-22:00:14.948 1fa8 Level-0 table #165: 1934 bytes OK
+2026/03/02-22:00:14.950 1fa8 Delete type=0 #160
+2026/03/02-22:00:14.951 2bdc Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at '\x001\x00\x00\x05' @ 2070 : 1
+2026/03/02-22:00:14.951 2bdc Compacting 1@0 + 1@1 files
+2026/03/02-22:00:14.953 2bdc Generated table #166@0: 18 keys, 1345 bytes
+2026/03/02-22:00:14.953 2bdc Compacted 1@0 + 1@1 files => 1345 bytes
+2026/03/02-22:00:14.954 2bdc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/02-22:00:14.954 2bdc Delete type=2 #165
+2026/03/02-22:00:14.955 2bdc Manual compaction at level-0 from '\x001\x00\x00\x05' @ 2070 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
