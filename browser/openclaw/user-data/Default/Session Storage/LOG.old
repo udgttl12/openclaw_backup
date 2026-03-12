@@ -1,3 +1,99 @@
-2026/03/03-00:00:09.876 320c Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/MANIFEST-000001
-2026/03/03-00:00:09.878 320c Recovering log #3
-2026/03/03-00:00:09.881 320c Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/000003.log 
+2026/03/11-10:00:06.338 5b50 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/MANIFEST-000001
+2026/03/11-10:00:06.340 5b50 Recovering log #81
+2026/03/11-10:00:06.346 5b50 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/000081.log 
+2026/03/11-10:31:22.537 57ec Level-0 table #85: started
+2026/03/11-10:31:22.554 57ec Level-0 table #85: 105080 bytes OK
+2026/03/11-10:31:22.557 57ec Delete type=0 #81
+2026/03/11-10:31:22.559 57ec Compacting 4@0 + 1@1 files
+2026/03/11-10:31:22.577 57ec Generated table #86@0: 865 keys, 118321 bytes
+2026/03/11-10:31:22.577 57ec Compacted 4@0 + 1@1 files => 118321 bytes
+2026/03/11-10:31:22.578 57ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/11-10:31:22.580 57ec Delete type=2 #75
+2026/03/11-10:31:22.580 57ec Delete type=2 #77
+2026/03/11-10:31:22.580 57ec Delete type=2 #80
+2026/03/11-10:31:22.580 57ec Delete type=2 #82
+2026/03/11-10:31:22.580 57ec Delete type=2 #85
+2026/03/11-11:01:51.261 57ec Level-0 table #88: started
+2026/03/11-11:01:51.277 57ec Level-0 table #88: 101953 bytes OK
+2026/03/11-11:01:51.279 57ec Delete type=0 #84
+2026/03/11-11:01:58.310 57ec Level-0 table #90: started
+2026/03/11-11:01:58.320 57ec Level-0 table #90: 100273 bytes OK
+2026/03/11-11:01:58.322 57ec Delete type=0 #87
+2026/03/11-11:31:47.622 57ec Level-0 table #92: started
+2026/03/11-11:31:47.636 57ec Level-0 table #92: 54197 bytes OK
+2026/03/11-11:31:47.639 57ec Delete type=0 #89
+2026/03/11-13:31:38.650 57ec Level-0 table #94: started
+2026/03/11-13:31:38.665 57ec Level-0 table #94: 105257 bytes OK
+2026/03/11-13:31:38.667 57ec Delete type=0 #91
+2026/03/11-13:31:38.668 57ec Compacting 4@0 + 1@1 files
+2026/03/11-13:31:38.685 57ec Generated table #95@0: 1127 keys, 474028 bytes
+2026/03/11-13:31:38.685 57ec Compacted 4@0 + 1@1 files => 474028 bytes
+2026/03/11-13:31:38.687 57ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/11-13:31:38.688 57ec Delete type=2 #86
+2026/03/11-13:31:38.688 57ec Delete type=2 #88
+2026/03/11-13:31:38.688 57ec Delete type=2 #90
+2026/03/11-13:31:38.688 57ec Delete type=2 #92
+2026/03/11-13:31:38.688 57ec Delete type=2 #94
+2026/03/11-13:32:05.071 57ec Level-0 table #97: started
+2026/03/11-13:32:05.079 57ec Level-0 table #97: 53368 bytes OK
+2026/03/11-13:32:05.081 57ec Delete type=0 #93
+2026/03/11-14:02:42.003 5b50 Level-0 table #99: started
+2026/03/11-14:02:42.012 5b50 Level-0 table #99: 53975 bytes OK
+2026/03/11-14:02:42.015 5b50 Delete type=0 #96
+2026/03/11-15:31:19.282 57ec Level-0 table #101: started
+2026/03/11-15:31:19.296 57ec Level-0 table #101: 101420 bytes OK
+2026/03/11-15:31:19.298 57ec Delete type=0 #98
+2026/03/11-15:31:35.105 5b50 Level-0 table #103: started
+2026/03/11-15:31:35.122 5b50 Level-0 table #103: 53279 bytes OK
+2026/03/11-15:31:35.124 5b50 Delete type=0 #100
+2026/03/11-15:31:35.125 5b50 Compacting 4@0 + 1@1 files
+2026/03/11-15:31:35.153 5b50 Generated table #104@0: 1361 keys, 733741 bytes
+2026/03/11-15:31:35.153 5b50 Compacted 4@0 + 1@1 files => 733741 bytes
+2026/03/11-15:31:35.154 5b50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/11-15:31:35.155 5b50 Delete type=2 #95
+2026/03/11-15:31:35.156 5b50 Delete type=2 #97
+2026/03/11-15:31:35.156 5b50 Delete type=2 #99
+2026/03/11-15:31:35.156 5b50 Delete type=2 #101
+2026/03/11-15:31:35.156 5b50 Delete type=2 #103
+2026/03/11-18:02:43.341 5b50 Level-0 table #106: started
+2026/03/11-18:02:43.352 5b50 Level-0 table #106: 54937 bytes OK
+2026/03/11-18:02:43.355 5b50 Delete type=0 #102
+2026/03/11-19:31:20.057 57ec Level-0 table #108: started
+2026/03/11-19:31:20.078 57ec Level-0 table #108: 104593 bytes OK
+2026/03/11-19:31:20.080 57ec Delete type=0 #105
+2026/03/11-19:31:30.240 57ec Level-0 table #110: started
+2026/03/11-19:31:30.250 57ec Level-0 table #110: 101083 bytes OK
+2026/03/11-19:31:30.253 57ec Delete type=0 #107
+2026/03/11-20:03:17.498 5b50 Level-0 table #112: started
+2026/03/11-20:03:17.511 5b50 Level-0 table #112: 54359 bytes OK
+2026/03/11-20:03:17.513 5b50 Delete type=0 #109
+2026/03/11-20:03:17.514 5b50 Compacting 4@0 + 1@1 files
+2026/03/11-20:03:17.535 5b50 Generated table #113@0: 1664 keys, 839674 bytes
+2026/03/11-20:03:17.535 5b50 Compacted 4@0 + 1@1 files => 839674 bytes
+2026/03/11-20:03:17.539 5b50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/11-20:03:17.541 5b50 Delete type=2 #104
+2026/03/11-20:03:17.541 5b50 Delete type=2 #106
+2026/03/11-20:03:17.541 5b50 Delete type=2 #108
+2026/03/11-20:03:17.541 5b50 Delete type=2 #110
+2026/03/11-20:03:17.541 5b50 Delete type=2 #112
+2026/03/11-20:31:17.506 57ec Level-0 table #115: started
+2026/03/11-20:31:17.515 57ec Level-0 table #115: 100676 bytes OK
+2026/03/11-20:31:17.518 57ec Delete type=0 #111
+2026/03/11-21:31:14.577 5b50 Level-0 table #117: started
+2026/03/11-21:31:14.590 5b50 Level-0 table #117: 102651 bytes OK
+2026/03/11-21:31:14.593 5b50 Delete type=0 #114
+2026/03/11-21:31:31.022 57ec Level-0 table #119: started
+2026/03/11-21:31:31.036 57ec Level-0 table #119: 53799 bytes OK
+2026/03/11-21:31:31.038 57ec Delete type=0 #116
+2026/03/11-22:32:46.889 57ec Level-0 table #121: started
+2026/03/11-22:32:46.895 57ec Level-0 table #121: 45212 bytes OK
+2026/03/11-22:32:46.898 57ec Delete type=0 #118
+2026/03/11-22:32:46.898 57ec Compacting 4@0 + 1@1 files
+2026/03/11-22:32:46.938 57ec Generated table #122@0: 1859 keys, 984926 bytes
+2026/03/11-22:32:46.938 57ec Compacted 4@0 + 1@1 files => 984926 bytes
+2026/03/11-22:32:46.940 57ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/11-22:32:46.941 57ec Delete type=2 #113
+2026/03/11-22:32:46.941 57ec Delete type=2 #115
+2026/03/11-22:32:46.941 57ec Delete type=2 #117
+2026/03/11-22:32:46.941 57ec Delete type=2 #119
+2026/03/11-22:32:46.941 57ec Delete type=2 #121

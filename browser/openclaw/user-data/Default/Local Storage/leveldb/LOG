@@ -1,3 +1,36 @@
-2026/03/03-08:05:51.320 4774 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/03-08:05:51.327 4774 Recovering log #3
-2026/03/03-08:05:51.330 4774 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Local Storage\leveldb/000003.log 
+2026/03/12-08:30:42.817 1414 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/12-08:30:42.825 1414 Recovering log #312
+2026/03/12-08:30:42.827 1414 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Local Storage\leveldb/000312.log 
+2026/03/12-08:30:57.995 6850 Level-0 table #316: started
+2026/03/12-08:30:58.006 6850 Level-0 table #316: 44929 bytes OK
+2026/03/12-08:30:58.010 6850 Delete type=0 #312
+2026/03/12-08:30:58.011 6850 Compacting 4@0 + 1@1 files
+2026/03/12-08:30:58.029 6850 Generated table #317@0: 1112 keys, 109131 bytes
+2026/03/12-08:30:58.029 6850 Compacted 4@0 + 1@1 files => 109131 bytes
+2026/03/12-08:30:58.059 6850 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/12-08:30:58.060 6850 Delete type=2 #307
+2026/03/12-08:30:58.061 6850 Delete type=2 #309
+2026/03/12-08:30:58.061 6850 Delete type=2 #311
+2026/03/12-08:30:58.061 6850 Delete type=2 #313
+2026/03/12-08:30:58.061 6850 Delete type=2 #316
+2026/03/12-08:33:51.954 6850 Level-0 table #319: started
+2026/03/12-08:33:51.965 6850 Level-0 table #319: 29329 bytes OK
+2026/03/12-08:33:51.968 6850 Delete type=0 #315
+2026/03/12-08:38:51.961 6850 Level-0 table #321: started
+2026/03/12-08:38:51.978 6850 Level-0 table #321: 26087 bytes OK
+2026/03/12-08:38:51.981 6850 Delete type=0 #318
+2026/03/12-08:44:51.949 6850 Level-0 table #323: started
+2026/03/12-08:44:51.956 6850 Level-0 table #323: 24633 bytes OK
+2026/03/12-08:44:51.958 6850 Delete type=0 #320
+2026/03/12-08:50:45.098 6850 Level-0 table #325: started
+2026/03/12-08:50:45.105 6850 Level-0 table #325: 25621 bytes OK
+2026/03/12-08:50:45.107 6850 Delete type=0 #322
+2026/03/12-08:50:45.108 6850 Compacting 4@0 + 1@1 files
+2026/03/12-08:50:45.121 6850 Generated table #326@0: 1119 keys, 110147 bytes
+2026/03/12-08:50:45.122 6850 Compacted 4@0 + 1@1 files => 110147 bytes
+2026/03/12-08:50:45.123 6850 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/12-08:50:45.124 6850 Delete type=2 #317
+2026/03/12-08:50:45.124 6850 Delete type=2 #319
+2026/03/12-08:50:45.124 6850 Delete type=2 #321
+2026/03/12-08:50:45.124 6850 Delete type=2 #323
+2026/03/12-08:50:45.124 6850 Delete type=2 #325

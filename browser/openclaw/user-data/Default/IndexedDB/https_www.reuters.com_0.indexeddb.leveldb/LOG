@@ -1,0 +1,20 @@
+2026/03/12-08:30:47.558 49f8 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_www.reuters.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/12-08:30:47.559 49f8 Recovering log #208
+2026/03/12-08:30:47.603 49f8 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_www.reuters.com_0.indexeddb.leveldb/000208.log 
+2026/03/12-08:30:55.987 7da4 Compacting 3@0 + 1@1 files
+2026/03/12-08:30:56.087 7da4 Generated table #211@0: 14971 keys, 282599 bytes
+2026/03/12-08:30:56.087 7da4 Compacted 3@0 + 1@1 files => 282599 bytes
+2026/03/12-08:30:56.089 7da4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/12-08:30:56.089 7da4 Delete type=2 #203
+2026/03/12-08:30:56.089 7da4 Delete type=2 #205
+2026/03/12-08:30:56.090 7da4 Delete type=2 #207
+2026/03/12-08:30:56.090 7da4 Delete type=2 #209
+2026/03/12-08:33:15.418 7da4 Level-0 table #213: started
+2026/03/12-08:33:15.454 7da4 Level-0 table #213: 4223947 bytes OK
+2026/03/12-08:33:15.456 7da4 Delete type=0 #208
+2026/03/12-08:41:55.422 7da4 Level-0 table #215: started
+2026/03/12-08:41:55.453 7da4 Level-0 table #215: 4272736 bytes OK
+2026/03/12-08:41:55.455 7da4 Delete type=0 #212
+2026/03/12-08:49:40.580 7da4 Level-0 table #217: started
+2026/03/12-08:49:40.605 7da4 Level-0 table #217: 4281910 bytes OK
+2026/03/12-08:49:40.607 7da4 Delete type=0 #214

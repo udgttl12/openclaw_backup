@@ -1,3 +1,9 @@
-2026/03/03-08:05:51.463 4774 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/MANIFEST-000001
-2026/03/03-08:05:51.466 4774 Recovering log #3
-2026/03/03-08:05:51.470 4774 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/000003.log 
+2026/03/12-08:30:43.493 1414 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/MANIFEST-000001
+2026/03/12-08:30:43.495 1414 Recovering log #120
+2026/03/12-08:30:43.505 1414 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/000120.log 
+2026/03/12-08:30:43.934 1414 Level-0 table #125: started
+2026/03/12-08:30:43.942 1414 Level-0 table #125: 15391 bytes OK
+2026/03/12-08:30:43.944 1414 Delete type=0 #120
+2026/03/12-08:30:50.446 6850 Level-0 table #127: started
+2026/03/12-08:30:50.485 6850 Level-0 table #127: 100527 bytes OK
+2026/03/12-08:30:50.513 6850 Delete type=0 #124

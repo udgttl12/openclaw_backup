@@ -1,0 +1,7 @@
+2026/03/11-20:30:58.124 6440 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\WebStorage\20\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2026/03/11-20:30:58.125 6440 Recovering log #3
+2026/03/11-20:30:58.126 6440 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\WebStorage\20\IndexedDB\indexeddb.leveldb/000003.log 
+2026/03/11-20:31:01.472 6440 Level-0 table #5: started
+2026/03/11-20:31:01.474 6440 Level-0 table #5: 480 bytes OK
+2026/03/11-20:31:01.476 6440 Delete type=0 #3
+2026/03/11-20:31:01.476 6440 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

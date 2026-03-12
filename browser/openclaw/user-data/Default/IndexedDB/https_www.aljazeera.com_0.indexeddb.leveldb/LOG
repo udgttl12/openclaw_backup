@@ -1,0 +1,13 @@
+2026/03/11-22:31:45.671 4528 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_www.aljazeera.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/11-22:31:45.684 4528 Recovering log #12
+2026/03/11-22:31:45.685 4528 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_www.aljazeera.com_0.indexeddb.leveldb/000012.log 
+2026/03/11-22:31:45.742 2754 Level-0 table #18: started
+2026/03/11-22:31:45.746 2754 Level-0 table #18: 617 bytes OK
+2026/03/11-22:31:45.748 2754 Delete type=0 #12
+2026/03/11-22:31:45.748 4528 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/11-22:31:46.245 6440 Compacting 1@1 + 1@2 files
+2026/03/11-22:31:46.248 6440 Generated table #19@1: 160 keys, 3682 bytes
+2026/03/11-22:31:46.248 6440 Compacted 1@1 + 1@2 files => 3682 bytes
+2026/03/11-22:31:46.249 6440 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/11-22:31:46.249 6440 Delete type=2 #15
+2026/03/11-22:31:46.249 6440 Delete type=2 #18
