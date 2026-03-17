@@ -1,3 +1,14 @@
-2026/03/11-11:31:42.726 2754 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_apnews.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/11-11:31:42.726 2754 Recovering log #4
-2026/03/11-11:31:42.727 2754 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_apnews.com_0.indexeddb.leveldb/000004.log 
+2026/03/12-10:31:34.066 2754 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_apnews.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/12-10:31:34.067 2754 Recovering log #4
+2026/03/12-10:31:34.073 2754 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_apnews.com_0.indexeddb.leveldb/000004.log 
+2026/03/12-10:33:51.769 526c Level-0 table #8: started
+2026/03/12-10:33:51.772 526c Level-0 table #8: 28871 bytes OK
+2026/03/12-10:33:51.775 526c Delete type=0 #4
+2026/03/12-10:33:51.775 526c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/12-10:33:51.775 526c Manual compaction at level-1 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 1540 : 1
+2026/03/12-10:33:51.776 526c Compacting 1@1 + 1@2 files
+2026/03/12-10:33:51.779 526c Generated table #9@1: 197 keys, 4071 bytes
+2026/03/12-10:33:51.779 526c Compacted 1@1 + 1@2 files => 4071 bytes
+2026/03/12-10:33:51.781 526c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/12-10:33:51.781 526c Delete type=2 #8
+2026/03/12-10:33:51.782 526c Manual compaction at level-1 from '\x00\x06\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 1540 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

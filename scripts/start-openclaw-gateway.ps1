@@ -1,4 +1,3 @@
-Start-Process -WindowStyle Hidden -FilePath "C:\nvm4w\nodejs\node.exe" -ArgumentList @(
-  "C:\Users\ydg\AppData\Local\nvm\v22.22.0\node_modules\openclaw\dist\index.js",
-  "gateway","--port","18789"
+Start-Process -WindowStyle Hidden -FilePath "C:\nvm4w\nodejs\openclaw.cmd" -ArgumentList @(
+  "gateway","run","--port","18789","--force"
 )
