@@ -1,14 +1,14 @@
-2026/03/16-23:00:14.842 5330 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/16-23:00:14.843 5330 Recovering log #949
-2026/03/16-23:00:14.843 5330 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/000949.log 
-2026/03/16-23:00:14.844 5330 Delete type=2 #947
-2026/03/16-23:00:14.897 3e44 Level-0 table #954: started
-2026/03/16-23:00:14.899 3e44 Level-0 table #954: 1927 bytes OK
-2026/03/16-23:00:14.921 3e44 Delete type=0 #949
-2026/03/16-23:00:14.922 5330 Manual compaction at level-0 from '\x00\xfb\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xfc\x00\x00\x00' @ 0 : 0; will stop at '\x00\xfb\x00\x00\x05' @ 10792 : 1
-2026/03/16-23:00:14.923 5330 Compacting 1@0 + 1@1 files
-2026/03/16-23:00:14.928 5330 Generated table #955@0: 18 keys, 1342 bytes
-2026/03/16-23:00:14.928 5330 Compacted 1@0 + 1@1 files => 1342 bytes
-2026/03/16-23:00:14.929 5330 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/16-23:00:14.931 5330 Delete type=2 #954
-2026/03/16-23:00:14.932 5330 Manual compaction at level-0 from '\x00\xfb\x00\x00\x05' @ 10792 : 1 .. '\x00\xfc\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/18-00:00:07.506 264 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/18-00:00:07.506 264 Recovering log #1014
+2026/03/18-00:00:07.506 264 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/001014.log 
+2026/03/18-00:00:07.507 264 Delete type=2 #1012
+2026/03/18-00:00:07.524 264 Level-0 table #1019: started
+2026/03/18-00:00:07.527 264 Level-0 table #1019: 2058 bytes OK
+2026/03/18-00:00:07.531 264 Delete type=0 #1014
+2026/03/18-00:00:07.532 264 Manual compaction at level-0 from ' \x0c\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x0d\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x0c\x01\x00\x00\x05' @ 11523 : 1
+2026/03/18-00:00:07.532 264 Compacting 1@0 + 1@1 files
+2026/03/18-00:00:07.538 264 Generated table #1020@0: 30 keys, 1479 bytes
+2026/03/18-00:00:07.538 264 Compacted 1@0 + 1@1 files => 1479 bytes
+2026/03/18-00:00:07.539 264 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/18-00:00:07.539 264 Delete type=2 #1019
+2026/03/18-00:00:07.540 264 Manual compaction at level-0 from ' \x0c\x01\x00\x00\x05' @ 11523 : 1 .. ' \x0d\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
