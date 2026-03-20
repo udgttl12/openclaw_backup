@@ -1,14 +1,7 @@
-2026/03/18-10:25:45.185 5f5c Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/18-10:25:45.186 5f5c Recovering log #1022
-2026/03/18-10:25:45.186 5f5c Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/001022.log 
-2026/03/18-10:25:45.186 5f5c Delete type=2 #1020
-2026/03/18-10:25:45.221 6114 Level-0 table #1027: started
-2026/03/18-10:25:45.224 6114 Level-0 table #1027: 2056 bytes OK
-2026/03/18-10:25:45.226 6114 Delete type=0 #1022
-2026/03/18-10:25:45.226 5f7c Manual compaction at level-0 from ' \x0e\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x0f\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x0e\x01\x00\x00\x05' @ 11609 : 1
-2026/03/18-10:25:45.227 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-10:25:45.229 5f7c Generated table #1028@0: 30 keys, 1476 bytes
-2026/03/18-10:25:45.229 5f7c Compacted 1@0 + 1@1 files => 1476 bytes
-2026/03/18-10:25:45.230 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-10:25:45.230 5f7c Delete type=2 #1027
-2026/03/18-10:25:45.231 5f7c Manual compaction at level-0 from ' \x0e\x01\x00\x00\x05' @ 11609 : 1 .. ' \x0f\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/19-15:00:07.605 6164 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/19-15:00:07.605 6164 Recovering log #1074
+2026/03/19-15:00:07.606 6164 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/001074.log 
+2026/03/19-15:00:07.652 6ddc Level-0 table #1080: started
+2026/03/19-15:00:07.656 6ddc Level-0 table #1080: 613 bytes OK
+2026/03/19-15:00:07.657 6ddc Delete type=0 #1074
+2026/03/19-15:00:07.658 6164 Manual compaction at level-0 from ' \x1d\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x1e\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

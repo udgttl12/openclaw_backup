@@ -1,102 +1,13 @@
-2026/03/18-11:00:13.811 5f7c Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/18-11:00:13.812 5f7c Recovering log #1026
-2026/03/18-11:00:13.813 5f7c Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/001026.log 
-2026/03/18-11:00:13.813 5f7c Delete type=2 #1024
-2026/03/18-11:00:13.861 6114 Level-0 table #1031: started
-2026/03/18-11:00:13.867 6114 Level-0 table #1031: 2073 bytes OK
-2026/03/18-11:00:13.873 6114 Delete type=0 #1026
-2026/03/18-11:00:13.873 5f7c Manual compaction at level-0 from ' \x0f\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x10\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x0f\x01\x00\x00\x05' @ 11652 : 1
-2026/03/18-11:00:13.873 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-11:00:13.875 5f7c Generated table #1032@0: 30 keys, 1473 bytes
-2026/03/18-11:00:13.875 5f7c Compacted 1@0 + 1@1 files => 1473 bytes
-2026/03/18-11:00:13.879 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-11:00:13.880 5f7c Delete type=2 #1031
-2026/03/18-11:00:13.880 5f7c Manual compaction at level-0 from ' \x0f\x01\x00\x00\x05' @ 11652 : 1 .. ' \x10\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/18-12:00:08.282 5f7c Level-0 table #1034: started
-2026/03/18-12:00:08.285 5f7c Level-0 table #1034: 2059 bytes OK
-2026/03/18-12:00:08.287 5f7c Delete type=2 #1028
-2026/03/18-12:00:08.287 5f7c Delete type=0 #1030
-2026/03/18-12:00:08.288 5f7c Manual compaction at level-0 from ' \x10\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x11\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x10\x01\x00\x00\x05' @ 11695 : 1
-2026/03/18-12:00:08.288 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-12:00:08.290 5f7c Generated table #1035@0: 30 keys, 1475 bytes
-2026/03/18-12:00:08.290 5f7c Compacted 1@0 + 1@1 files => 1475 bytes
-2026/03/18-12:00:08.291 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-12:00:08.291 5f7c Delete type=2 #1034
-2026/03/18-12:00:08.292 5f7c Manual compaction at level-0 from ' \x10\x01\x00\x00\x05' @ 11695 : 1 .. ' \x11\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/18-13:00:16.933 6114 Level-0 table #1037: started
-2026/03/18-13:00:16.936 6114 Level-0 table #1037: 2060 bytes OK
-2026/03/18-13:00:16.938 6114 Delete type=2 #1032
-2026/03/18-13:00:16.938 6114 Delete type=0 #1033
-2026/03/18-13:00:16.939 5f7c Manual compaction at level-0 from ' \x11\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x12\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x11\x01\x00\x00\x05' @ 11738 : 1
-2026/03/18-13:00:16.939 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-13:00:16.941 5f7c Generated table #1038@0: 34 keys, 1506 bytes
-2026/03/18-13:00:16.941 5f7c Compacted 1@0 + 1@1 files => 1506 bytes
-2026/03/18-13:00:16.942 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-13:00:16.942 5f7c Delete type=2 #1037
-2026/03/18-13:00:16.943 5f7c Manual compaction at level-0 from ' \x11\x01\x00\x00\x05' @ 11738 : 1 .. ' \x12\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/18-14:00:13.211 6114 Level-0 table #1040: started
-2026/03/18-14:00:13.217 6114 Level-0 table #1040: 2059 bytes OK
-2026/03/18-14:00:13.219 6114 Delete type=2 #1035
-2026/03/18-14:00:13.219 6114 Delete type=0 #1036
-2026/03/18-14:00:13.220 5f7c Manual compaction at level-0 from ' \x12\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x13\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x12\x01\x00\x00\x05' @ 11781 : 1
-2026/03/18-14:00:13.220 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-14:00:13.222 5f7c Generated table #1041@0: 46 keys, 1623 bytes
-2026/03/18-14:00:13.222 5f7c Compacted 1@0 + 1@1 files => 1623 bytes
-2026/03/18-14:00:13.223 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-14:00:13.224 5f7c Delete type=2 #1040
-2026/03/18-14:00:13.224 5f7c Manual compaction at level-0 from ' \x12\x01\x00\x00\x05' @ 11781 : 1 .. ' \x13\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/18-15:00:11.196 5c14 Level-0 table #1043: started
-2026/03/18-15:00:11.200 5c14 Level-0 table #1043: 2061 bytes OK
-2026/03/18-15:00:11.222 5c14 Delete type=2 #1038
-2026/03/18-15:00:11.222 5c14 Delete type=0 #1039
-2026/03/18-15:00:11.224 5f7c Manual compaction at level-0 from ' \x13\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x14\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x13\x01\x00\x00\x05' @ 11824 : 1
-2026/03/18-15:00:11.224 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-15:00:11.227 5f7c Generated table #1044@0: 58 keys, 1735 bytes
-2026/03/18-15:00:11.227 5f7c Compacted 1@0 + 1@1 files => 1735 bytes
-2026/03/18-15:00:11.229 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-15:00:11.230 5f7c Delete type=2 #1043
-2026/03/18-15:00:11.230 5f7c Manual compaction at level-0 from ' \x13\x01\x00\x00\x05' @ 11824 : 1 .. ' \x14\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/18-16:00:10.443 5f7c Level-0 table #1046: started
-2026/03/18-16:00:10.446 5f7c Level-0 table #1046: 2061 bytes OK
-2026/03/18-16:00:10.448 5f7c Delete type=2 #1041
-2026/03/18-16:00:10.448 5f7c Delete type=0 #1042
-2026/03/18-16:00:10.449 5f7c Manual compaction at level-0 from ' \x14\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x15\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x14\x01\x00\x00\x05' @ 11867 : 1
-2026/03/18-16:00:10.449 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-16:00:10.451 5f7c Generated table #1047@0: 70 keys, 1858 bytes
-2026/03/18-16:00:10.451 5f7c Compacted 1@0 + 1@1 files => 1858 bytes
-2026/03/18-16:00:10.452 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-16:00:10.452 5f7c Delete type=2 #1046
-2026/03/18-16:00:10.453 5f7c Manual compaction at level-0 from ' \x14\x01\x00\x00\x05' @ 11867 : 1 .. ' \x15\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/18-17:00:18.454 5f7c Level-0 table #1049: started
-2026/03/18-17:00:18.470 5f7c Level-0 table #1049: 2061 bytes OK
-2026/03/18-17:00:18.473 5f7c Delete type=2 #1044
-2026/03/18-17:00:18.473 5f7c Delete type=0 #1045
-2026/03/18-17:00:18.476 5f5c Manual compaction at level-0 from ' \x15\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x16\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x15\x01\x00\x00\x05' @ 11910 : 1
-2026/03/18-17:00:18.476 5f5c Compacting 1@0 + 1@1 files
-2026/03/18-17:00:18.481 5f5c Generated table #1050@0: 82 keys, 1965 bytes
-2026/03/18-17:00:18.481 5f5c Compacted 1@0 + 1@1 files => 1965 bytes
-2026/03/18-17:00:18.482 5f5c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-17:00:18.484 5f5c Delete type=2 #1049
-2026/03/18-17:00:18.485 5f7c Manual compaction at level-0 from ' \x15\x01\x00\x00\x05' @ 11910 : 1 .. ' \x16\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/18-19:00:11.640 6114 Level-0 table #1052: started
-2026/03/18-19:00:11.642 6114 Level-0 table #1052: 2061 bytes OK
-2026/03/18-19:00:11.644 6114 Delete type=2 #1047
-2026/03/18-19:00:11.644 6114 Delete type=0 #1048
-2026/03/18-19:00:11.644 5f7c Manual compaction at level-0 from ' \x16\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x17\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x16\x01\x00\x00\x05' @ 11953 : 1
-2026/03/18-19:00:11.645 5f7c Compacting 1@0 + 1@1 files
-2026/03/18-19:00:11.646 5f7c Generated table #1053@0: 94 keys, 2080 bytes
-2026/03/18-19:00:11.646 5f7c Compacted 1@0 + 1@1 files => 2080 bytes
-2026/03/18-19:00:11.648 5f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-19:00:11.648 5f7c Delete type=2 #1052
-2026/03/18-19:00:11.648 5f7c Manual compaction at level-0 from ' \x16\x01\x00\x00\x05' @ 11953 : 1 .. ' \x17\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/19-08:04:16.787 6114 Level-0 table #1055: started
-2026/03/19-08:04:16.790 6114 Level-0 table #1055: 2082 bytes OK
-2026/03/19-08:04:16.807 6114 Delete type=2 #1050
-2026/03/19-08:04:16.808 6114 Delete type=0 #1051
-2026/03/19-08:04:16.809 5f5c Manual compaction at level-0 from ' \x17\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x18\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x17\x01\x00\x00\x05' @ 11996 : 1
-2026/03/19-08:04:16.809 5f5c Compacting 1@0 + 1@1 files
-2026/03/19-08:04:16.815 5f5c Generated table #1056@0: 106 keys, 2188 bytes
-2026/03/19-08:04:16.815 5f5c Compacted 1@0 + 1@1 files => 2188 bytes
-2026/03/19-08:04:16.818 5f5c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/19-08:04:16.820 5f5c Delete type=2 #1055
-2026/03/19-08:04:16.820 5f5c Manual compaction at level-0 from ' \x17\x01\x00\x00\x05' @ 11996 : 1 .. ' \x18\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/19-23:00:09.471 57dc Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/19-23:00:09.472 57dc Recovering log #1079
+2026/03/19-23:00:09.472 57dc Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\IndexedDB\https_arca.live_0.indexeddb.leveldb/001079.log 
+2026/03/19-23:00:09.480 51a4 Level-0 table #1083: started
+2026/03/19-23:00:09.483 51a4 Level-0 table #1083: 2053 bytes OK
+2026/03/19-23:00:09.484 51a4 Delete type=0 #1079
+2026/03/19-23:00:09.485 51a4 Manual compaction at level-0 from ' \x1e\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x1f\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x1e\x01\x00\x00\x05' @ 12299 : 1
+2026/03/19-23:00:09.485 51a4 Compacting 1@0 + 1@1 files
+2026/03/19-23:00:09.487 51a4 Generated table #1084@0: 18 keys, 1350 bytes
+2026/03/19-23:00:09.487 51a4 Compacted 1@0 + 1@1 files => 1350 bytes
+2026/03/19-23:00:09.488 51a4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/19-23:00:09.488 51a4 Delete type=2 #1083
+2026/03/19-23:00:09.488 57dc Manual compaction at level-0 from ' \x1e\x01\x00\x00\x05' @ 12299 : 1 .. ' \x1f\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

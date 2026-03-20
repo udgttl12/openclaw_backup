@@ -1,18 +1,3 @@
-2026/03/18-09:00:14.419 362c Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/MANIFEST-000001
-2026/03/18-09:00:14.421 362c Recovering log #150
-2026/03/18-09:00:14.427 362c Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/000150.log 
-2026/03/18-09:22:19.596 5d68 Level-0 table #154: started
-2026/03/18-09:22:19.615 5d68 Level-0 table #154: 17599 bytes OK
-2026/03/18-09:22:19.617 5d68 Delete type=0 #150
-2026/03/18-09:22:21.081 362c Level-0 table #156: started
-2026/03/18-09:22:21.086 362c Level-0 table #156: 16508 bytes OK
-2026/03/18-09:22:21.088 362c Delete type=0 #153
-2026/03/18-09:22:21.090 362c Compacting 4@0 + 1@1 files
-2026/03/18-09:22:21.105 362c Generated table #157@0: 3328 keys, 89779 bytes
-2026/03/18-09:22:21.105 362c Compacted 4@0 + 1@1 files => 89779 bytes
-2026/03/18-09:22:21.106 362c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/18-09:22:21.111 362c Delete type=2 #145
-2026/03/18-09:22:21.112 362c Delete type=2 #148
-2026/03/18-09:22:21.112 362c Delete type=2 #151
-2026/03/18-09:22:21.112 362c Delete type=2 #154
-2026/03/18-09:22:21.112 362c Delete type=2 #156
+2026/03/19-10:03:20.180 1b4 Reusing MANIFEST C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/MANIFEST-000001
+2026/03/19-10:03:20.188 1b4 Recovering log #155
+2026/03/19-10:03:20.192 1b4 Reusing old log C:\Users\ydg\.openclaw\browser\openclaw\user-data\Default\Session Storage/000155.log 
