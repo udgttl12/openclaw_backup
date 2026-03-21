@@ -7,4 +7,4 @@ set "OPENCLAW_WINDOWS_TASK_NAME=OpenClaw Gateway"
 set "OPENCLAW_SERVICE_MARKER=openclaw"
 set "OPENCLAW_SERVICE_KIND=gateway"
 set "OPENCLAW_SERVICE_VERSION=2026.3.13"
-C:\nvm4w\nodejs\node.exe C:\Users\ydg\AppData\Local\nvm\v22.22.0\node_modules\openclaw\dist\index.js gateway --port 18789
+C:\nvm4w\nodejs\node.exe C:\nvm4w\nodejs\node_modules\openclaw\dist\entry.js gateway --port 18789
